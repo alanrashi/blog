@@ -1,0 +1,28 @@
+.main-info {
+  padding: 40px;
+}
+
+.navigation-main {
+  margin-bottom: 40px;
+  color: red;
+}
+
+.nav-link.main:hover {
+  color: #fff;
+  background-color: #378dfc;
+}
+
+/* Projects page */
+.card-img-proj {
+  width: 100%;
+  height: 100%;
+}
+
+/* Footer */
+.footer-layout {
+  border-top: 1px solid #368dfc !important;
+}
+
+.footer-icons {
+  margin-right: 20px;
+}
